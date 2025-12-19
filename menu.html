@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Puding |Inna Corner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top-nav">
+    <div class="brand">Inna Corner</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a class="active" href="menu.html">Menu</a>
+        <a href="profil.html">Profil</a>
+    </nav>
+</header>
+
+<section class="page-title">
+  <h2 class="menu-judul">Menu Inna Corner</h2>
+
+  <div class="puding-slider">
+    <div class="puding-item">
+      <img src="https://i.ytimg.com/vi/AcFWJtRVcB8/maxresdefault.jpg" alt="Puding Coklat">
+      <p>Alpukat Kocok</p>
+    </div>
+
+    <div class="puding-item">
+      <img src="https://img-global.cpcdn.com/recipes/74d54681230ba716/480x640cq80/photo.webp" alt="Puding Strawberry">
+      <p>Mangga Kocok</p>
+    </div>
+
+    <div class="puding-item">
+      <img src="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/100/2024/01/16/Screenshot_2024_0116_131221v1-2724361802.jpg" alt="Puding Vanila">
+      <p>Strawberry Kocok</p>
+    </div>
+
+    <div class="puding-item">
+      <img src="https://asset.kompas.com/crops/qzYeLWnSNdgRgsY8wJ0kGhq0yWs=/0x0:1920x1280/1200x800/data/photo/2022/06/14/62a8599433aa6.jpg" alt="Puding Mangga">
+      <p>Jus Jeruk</p>
+    </div>
+  </div>
+</section>
+
+    <p>Pilih Menu Favorit Anda</p>
+</section>
+
+<section class="menu-grid">
+
+<!-- TEMPLATE MENU -->
+<script>
+function pesanWA(nama, harga){
+    let nomor = "6281242666222"; // GANTI NOMOR WA
+    let pesan = `Halo, saya ingin pesan ${nama} seharga Rp ${harga}`;
+    window.open(`https://wa.me/${nomor}?text=${encodeURIComponent(pesan)}`);
+}
+</script>
+
+<div class="menu-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zt0oD7fK5XQ88bdCs_GSThqHvPONhoPEpg&usqp=CAU"><h3>Puding Salad</h3><span>Rp 10.000</span><button onclick="pesanWA('Puding Salad','10.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamdXRxn3es9GemyFQ2Tdx5ORoBB1gZb4WTg&usqp=CAU"><h3>Puding Silky</h3><span>Rp 10.000</span><button onclick="pesanWA('Puding Silky','10.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://i.ytimg.com/vi/dNUo090LQrc/sddefault.jpg"><h3>Puding Silverqueen</h3><span>Rp 10.000</span><button onclick="pesanWA('Puding Silverqueen','10.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://img-global.cpcdn.com/recipes/3d3b565740027f96/200x200f0.5_0.53125_1.0q80/choco-silky-pudding-regal-with-fla-keju-foto-resep-utama.jpg"><h3>Puding Regal</h3><span>Rp 10.000</span><button onclick="pesanWA('Puding Regal','10.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://www.lemon8-app.com/seo/image?item_id=7519797600724255249&index=0&sign=37371ec9e61382513b3b8f2a99971518 "><h3>Puding Hias</h3><span>Rp 150.000-300.000</span><button onclick="pesanWA('Puding Hias','150.000-300.000')" class="btn-wa">Pesan WA</button></div>
+
+<div class="menu-item"><img src="https://image.idntimes.com/post/20250817/47964f59-1567-488e-9dd4-8d0cfeab042f_cfc8d46d-5456-42de-9421-e0da0e40ae4d.jpeg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75"><h3>Dimsum Goreng</h3><span>Rp 30.000</span><button onclick="pesanWA('Dimsum Goreng','30.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://thefoodiemonk.wordpress.com/wp-content/uploads/2017/12/26166109_1537965476240636_442655288265083047_n.jpg "><h3>Dimsum Kukus</h3><span>Rp 30.000</span><button onclick="pesanWA('Dimsum Kukus','30.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://image.idntimes.com/post/20240621/fried-rice-6297407-640-5111f4a1bc0517350c6a1db087dcfa64-1dad33b46079baff2862fbf082280fc5.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75"><h3>Nasi Goreng Ayam</h3><span>Rp 25.000</span><button onclick="pesanWA('Nasi Goreng Ayam','25.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1dddbec7-170b-47ee-8a5d-8e49ae49c021_73e68a40-aaed-43b5-9c5d-76df637c623b_master-menu-item-image_1586146170357.jpg?auto=format"><h3>Nasi Goreng Telur</h3><span>Rp 17.000</span><button onclick="pesanWA('Nasi Goreng Telur','17.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75OhGOKtIK1EoGNDvOy6BDiceQ5Ain4Kq0A&usqp=CAU"><h3>1 Ekor Ayam Aroma</h3><span>Rp 120.000</span><button onclick="pesanWA('1 Ekor Ayam Aroma','120.000')" class="btn-wa">Pesan WA</button></div>
+
+<div class="menu-item"><img src="https://suaramuda.net/wp-content/uploads/2024/12/911f22752088c421c5d35c60bd60896c.jpg"><h3>Es Teh</h3><span>Rp 5.000</span><button onclick="pesanWA('Es Teh','5.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4Sh2RjijpYYYx5RnwvKluP85uPt3-WcJgRHM1dInVdGrilexq"><h3>Puding Sutra</h3><span>Rp 100.000</span><button onclick="pesanWA('Puding Sutra','100.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://img-global.cpcdn.com/recipes/086b20d0920cb23d/680x781cq80/salad-buah-untuk-ide-jualan-foto-resep-utama.jpg"><h3>Salad Buah Kecil</h3><span>Rp 20.000</span><button onclick="pesanWA('Salad Buah Kecil','20.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUF0QvoCtxODV_cBkEyaZvheKZ7iHFoygug&s"><h3>Salad Buah Sedang</h3><span>Rp 50.000</span><button onclick="pesanWA('Salad Buah Sedang','50.000')" class="btn-wa">Pesan WA</button></div>
+<div class="menu-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnv66XLMsXYZSTIghECpyUe3Ddh-22SMhjZw&s"><h3>Salad Buah Sedang</h3><span>Rp 100.000</span><button onclick="pesanWA('Salad Buah Besar','100.000')" class="btn-wa">Pesan WA</button></div>
+</div>
+
+</section>
+
+<footer class="footer">© 2025 Puding Manis</footer>
+</body>
+</html>
+...
+
