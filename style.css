@@ -351,7 +351,7 @@ body {
 }
 
 .footer-links a:hover {
-    color: #ff9800;
+    color: #E67E00;
 }
 
 .footer-contact p {
@@ -413,7 +413,7 @@ body {
   min-height: 50vh;
   background:
     linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-    url("https://image.idntimes.com/post/20250109/screenshot-2025-0109-0830472-579c18e74dce0f8e75e98443de8e9b79-f3645686a47e023d83e01fb4fe312dcd.jpg");
+    url("gambar/gambar_21.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -546,23 +546,23 @@ body {
     /* gradient dihilangkan, gunakan overlay hitam transparan */
     background:
         linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-        url("https://image.idntimes.com/post/20250109/screenshot-2025-0109-0830472-579c18e74dce0f8e75e98443de8e9b79-f3645686a47e023d83e01fb4fe312dcd.jpg");
+        url("gambar/gambar_23.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .btn {
-    background: #ff9800; /* oranye */
+    background: #E67E00; /* oranye */
     color: white;
 }
 
 .features .feature {
-    background: #ff9800; /* oranye */
+    background: #E67E00; /* oranye */
     color: white;
 }
 
 .page-title {
-    color: #ff9800;
+    color: #E67E00;
 }
 
 .menu-item span {
@@ -570,16 +570,16 @@ body {
 }
 
 .menu-item h3 {
-    color: #ff9800;
+    color: #E67E00;
 }
 
 .btn-wa {
-    background: #ff9800; /* oranye */
+    background: #E67E00; /* oranye */
     color: white;
 }
 
 .btn-wa:hover {
-    background: #e68a00; /* oranye gelap saat hover */
+    background: #E67E00; /* oranye gelap saat hover */
 }
 
 .profile p {
@@ -587,7 +587,7 @@ body {
 }
 
 .about-home .about-line {
-    background: #ff9800;
+    background: #E67E00;
 }
 
 .about-home p {
@@ -599,7 +599,7 @@ body {
 }
 
 .location-line {
-    background: #ff9800;
+    background: #E67E00;
 }
 
 .location-section h3 {
@@ -607,7 +607,7 @@ body {
 }
 
 .location-item .icon {
-    color: #ff9800;
+    color: #E67E00;
 }
 
 .location-item p {
@@ -615,7 +615,7 @@ body {
 }
 
 .btn-location-wa {
-    background: #ff9800;
+    background: #E67E00;
     color: white;
 }
 
@@ -637,7 +637,7 @@ body {
 }
 
 .footer-links ul li a:hover {
-    color: #ff9800;
+    color: #E67E00;
 }
 
 .footer-contact p {
@@ -645,12 +645,12 @@ body {
 }
 
 .footer-bottom {
-    border-top: 2px solid #ff9800;
+    border-top: 2px solid #E67E00;
     color: white;
 }
 
 .menu-puding {
-    background: #ff9800;
+    background: #E67E00;
 }
 
 .menu-judul {
@@ -663,7 +663,7 @@ body {
 
 /* Tombol WA Puding tetap oranye */
 .btn-wa {
-    background: #ff9800;
+    background: #E67E00;
     color: white;
 }
 
@@ -695,7 +695,7 @@ body {
     margin-bottom: 35px;     /* beri jarak lebih dengan frame menu */
     font-size: 24px;         /* ukuran lebih elegan */
     font-weight: 600;        /* sedikit tebal tapi elegan */
-    color: #ff9800;          /* oranye */
+    color: #E67E00;          /* oranye */
     font-family: 'Georgia', 'Times New Roman', serif; /* font elegan */
 }
 /* ===== FRAME MENU ITEM (DI BAWAH FOTO) ===== */
@@ -720,7 +720,7 @@ body {
 }
 /* Warna keterangan nama minuman di slider */
 .puding-item p {
-    color: #ff9800;       /* teks oranye */
+    color: #E67E00;       /* teks oranye */
     font-weight: bold;    /* sedikit tebal agar menonjol */
     text-align: center;   /* pastikan rata tengah */
     font-size: 16px;      /* ukuran teks normal */
@@ -730,12 +730,12 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 15px 20px;
-    background: #ff9800; /* oranye */
+    background: #E67E00; /* oranye */
     color: white; /* teks tetap putih agar kontras */
 }
 /* Frame di halaman Tentang Kami */
 .about-home {
-    background-color:#ff9800; /* putih lembut agar serasi dengan warna oranye */
+    background-color:#E67E00; /* putih lembut agar serasi dengan warna oranye */
     border-radius: 15px;       /* memberi efek frame lembut */
     box-shadow: 0 6px 15px rgba(0,0,0,0.1); /* shadow halus untuk efek mengambang */
     padding: 30px 20px;        /* beri ruang lebih dalam frame */
@@ -770,7 +770,7 @@ body {
     padding: 30px 25px 30px 25px; /* padding seimbang */
     box-sizing: border-box;
     margin: 40px auto;
-    background-color: #ff9800; /* gelap agar teks putih menonjol */
+    background-color: #E67E00; /* gelap agar teks putih menonjol */
 }
 /* Hilangkan spasi antara Tentang Kami dan Footer */
 .about-home {
@@ -786,7 +786,7 @@ body {
 }
 
 .menu-bundar h2 {
-    color: #ff9800;
+    color: #E67E00;
     font-size: 26px;
     margin-bottom: 20px;
     font-family: 'Segoe UI', sans-serif;
@@ -818,7 +818,7 @@ body {
     height: 120px;
     border-radius: 50%; /* bentuk bundar */
     object-fit: cover;
-    border: 3px solid #ff9800;
+    border: 3px solid #E67E00;
     transition: transform 0.5s;
 }
 
@@ -838,7 +838,7 @@ body {
 }
 /* WARNA DAN STYLE BAGIAN LOKASI KAMI */
 .location-section {
-    background: #ff9800;   /* Latar oranye sesuai tema */
+    background: #E67E00;   /* Latar oranye sesuai tema */
     color: white;           /* Teks menjadi putih */
     padding: 30px 20px;
     text-align: center;
@@ -864,7 +864,7 @@ body {
 
 .btn-location-wa {
     background: black;      /* Tombol WhatsApp hitam */
-    color: #ff9800;         /* Teks tombol oranye */
+    color: #E67E00;         /* Teks tombol oranye */
     transition: 0.3s;
 }
 
@@ -873,7 +873,7 @@ body {
 }
 /* Lokasi Kami - bagian bawah tidak bersudut */
 .location-section {
-    background: #ff9800;   /* Latar oranye sesuai tema */
+    background: #E67E00;   /* Latar oranye sesuai tema */
     color: white;
     padding: 30px 20px;
     text-align: center;
@@ -906,7 +906,7 @@ body {
     justify-content: space-between;
     padding: 15px 20px;
     background: #000000;
-    color:#ff9800;
+    color:#E67E00;
     border-top: 2px solid #000;
     border-bottom: 2px solid #000;
 }
@@ -915,7 +915,7 @@ body {
     font-size: 14px;
     font-weight: 500;
     text-align: center;
-    color: #ff9800;
+    color: #E67E00;
 }
 .carousel-item {
     display: flex;
@@ -943,7 +943,352 @@ body {
 }
 
 .rating {
-    color: orange;
+    color: rgb(159, 135, 91);
     margin-left: 4px;
     font-size: 14px;
+}
+.profile {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;       /* Membuat bundar */
+    object-fit: cover;        /* Foto tidak gepeng */
+    border: 4px solid #755333;/* Opsional: garis elegan */
+    margin-bottom: 10px;
+}
+
+.profile h2 {
+    margin: 8px 0 5px;
+    font-size: 22px;
+    color: #000000;
+}
+
+.profile p {
+    font-size: 14px;
+    color:  #000000;
+}
+.menu-header {
+    text-align: center;
+    padding: 50px 20px 30px;
+    background: hsl(32, 48%, 85%);
+}
+
+.menu-header .badge-menu {
+    display: inline-block;
+    padding: 6px 18px;
+    background: #ffe5c4;
+    color: #ff8c00;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.menu-header h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #1f2937;
+}
+
+.menu-header h2 span {
+    color: #E67E00;
+}
+
+.menu-header p {
+    max-width: 600px;
+    margin: auto;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #E67E00;
+}
+.menu-header {
+    text-align: center;
+    padding: 5px 20px 27px;
+    background:  #fbddb7#ffe5c4;
+
+    /* INI YANG MEMBUAT SUDUT MEMBULAT */
+    border-radius: 30px;
+
+    /* Opsional: biar kelihatan seperti frame */
+    margin: 20px;
+}
+.menu-item {
+    background: #594e40#fff;
+    border-radius: 24px;
+    overflow: hidden; /* WAJIB agar sudut foto ikut bulat */
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* FRAME FOTO */
+.menu-thumb {
+    position: relative;
+    width: 100%;
+    height: 220px;          /* tinggi frame foto */
+    overflow: hidden;
+}
+
+/* FOTO FULL FRAME */
+.menu-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;      /* KUNCI: foto memenuhi frame */
+    display: block;
+}
+
+/* Badge tetap di atas foto */
+.menu-thumb .badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #E67E00;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 12px;
+    border-radius: 20px;
+    z-index: 2;
+}
+/* Footer menu (harga + tombol) */
+.menu-footer {
+    display: grid;
+    grid-template-columns: 1fr auto; /* harga fleksibel, tombol di kanan */
+    align-items: center;
+    gap: 20px; /* JARAK ANTARA HARGA & TOMBOL */
+}
+
+/* Harga di tengah */
+.menu-footer .price {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff8c00;
+}
+
+/* Tombol WA di kanan */
+.menu-footer .btn-wa {
+    justify-self: end;
+    background: #E67E00;
+    color: #fff;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.lokasi-section {
+    background: #E67E00;      /* warna oranye seperti gambar */
+    background: #;      /* warna oranye seperti gambar */
+    border-radius: 30px;      /* sudut membulat */
+    padding: 50px 20px;
+    margin: 20px;             /* jarak luar supaya sudut terlihat */
+}
+/* Judul INFORMASI */
+.lokasi-section h3 {
+  margin-top: 1px;      /* kurangi jarak dari atas */
+  margin-bottom: 10px;   /* jarak ke item pertama */
+  text-align: center;
+}
+
+/* Item informasi */
+.lokasi-section .location-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 17px;   /* jarak antar Alamat, Telepon, dll */
+}
+
+/* Paragraf teks */
+.lokasi-section .location-item p {
+  margin: 0;
+  line-height: 1.5;      /* agar rapi & tidak terlalu renggang */
+}
+
+/* Icon agar sejajar */
+.lokasi-section .location-item .icon {
+  font-size: 18px;
+  margin-top: 2px;
+}
+/* ===== HOME HIGHLIGHT SECTION ===== */
+.home-highlight-wrapper {
+    background: linear-gradient(180deg, #E67E00, #ff9800);
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.home-highlight-card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 30px 20px;
+    max-width: 300px;
+    margin: 0 auto 30px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.home-highlight-icon {
+    width: 80px;
+    margin-bottom: 15px;
+}
+
+.home-highlight-title {
+    color: #E67E00;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.home-highlight-subtitle {
+    color: #777;
+    font-size: 14px;
+}
+
+.home-highlight-stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.home-highlight-box {
+    background: #E67E00;
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+
+.home-highlight-box h4 {
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 6px;
+}
+
+.home-highlight-box p {
+    font-size: 15px;
+    color: #fff;
+}
+.home-highlight-wrapper {
+    background: linear-gradient(180deg, #fde8b6);
+    padding: 40px 16px; /* ⬅ spasi atas-bawah & kiri-kanan */
+    margin: 0 16px 40px; /* ⬅ spasi frame dari sisi layar */
+    text-align: center;
+    border-radius: 20px;
+}
+.home-highlight-card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 0; /* ⬅ hapus padding agar foto full */
+    overflow: hidden; /* ⬅ potong foto agar mengikuti radius */
+    max-width: 320px;
+    margin: 0 auto 30px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.home-highlight-icon {
+    width: 100%;
+    height: 180px; /* ⬅ atur tinggi frame foto */
+    object-fit: cover; /* ⬅ biar foto tidak gepeng */
+    display: block;
+}
+/* ===== END HOME HIGHLIGHT ===== */
+/* ================================= */
+/* ===== HERO TEXT ANIMATION ======= */
+/* ================================= */
+
+/* Animasi fade + naik */
+@keyframes heroFadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Judul utama */
+.hero h1 {
+    animation: heroFadeUp 1s ease forwards;
+}
+
+/* Deskripsi */
+.hero p {
+    opacity: 0;
+    animation: heroFadeUp 1s ease forwards;
+    animation-delay: 0.3s;
+}
+
+/* Tombol */
+.hero .btn {
+    opacity: 0;
+    animation: heroFadeUp 1s ease forwards;
+    animation-delay: 0.6s;
+}
+/* ======================================= */
+/* ===== ANIMASI HOME HIGHLIGHT CARD ===== */
+/* ======================================= */
+
+/* Animasi card masuk */
+@keyframes highlightFadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animasi zoom foto */
+@keyframes highlightImageZoom {
+    from {
+        transform: scale(1.08);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+/* Card utama */
+.home-highlight-card {
+    opacity: 0;
+    animation: highlightFadeUp 1s ease forwards;
+}
+
+/* Gambar dessert */
+.home-highlight-icon {
+    animation: highlightImageZoom 1.2s ease forwards;
+}
+
+/* Judul */
+.home-highlight-title {
+    opacity: 0;
+    animation: highlightFadeUp 0.8s ease forwards;
+    animation-delay: 0.3s;
+}
+
+/* Subjudul */
+.home-highlight-subtitle {
+    opacity: 0;
+    animation: highlightFadeUp 0.8s ease forwards;
+    animation-delay: 0.5s;
+}
+.home-highlight-card,
+.home-highlight-icon,
+.home-highlight-title,
+.home-highlight-subtitle {
+    will-change: transform, opacity;
+}
+/* ================================= */
+/* ===== NAVBAR FIXED / STICKY ===== */
+/* ================================= */
+
+.top-nav {
+    position: sticky;   /* aman & modern */
+    top: 0;
+    z-index: 999;       /* pastikan di atas konten */
 }
